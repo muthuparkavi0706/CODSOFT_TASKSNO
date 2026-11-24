@@ -1,6 +1,6 @@
 # Task 3 – To-Do List Smart Contract
 
-Objective
+Objective:
 To develop a decentralized task management application using Solidity that stores user tasks securely on the blockchain.
 
 Features
